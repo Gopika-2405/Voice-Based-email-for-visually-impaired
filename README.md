@@ -14,3 +14,5 @@ The goal of this project stems from this need. In this project, we propose to cr
 To achieve these functionalities, the application will incorporate speech-to-text conversion for composing emails, text-to-speech feedback for confirmation and scheduling, and a keyword recognition process for triggering email commands. 
 
 This will enable visually impaired individuals to seamlessly compose, schedule, and send emails without the need for visual interaction.
+Screenshots from the application:
+![image](https://github.com/user-attachments/assets/11634d0f-7246-44e8-ade1-4c5eb9698563)

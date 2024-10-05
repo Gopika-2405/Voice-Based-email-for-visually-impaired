@@ -15,10 +15,18 @@ To achieve these functionalities, the application will incorporate speech-to-tex
 
 This will enable visually impaired individuals to seamlessly compose, schedule, and send emails without the need for visual interaction.
 **Screenshots from the application:**
-            ![image](https://github.com/user-attachments/assets/f102061d-b81a-409d-86c8-cb045920a15a)
+![Picture5](https://github.com/user-attachments/assets/d7134ed0-fbb9-43f7-b484-2c0f69c59674)
 ![Picture1](https://github.com/user-attachments/assets/0b076758-4f4e-4ffd-b383-05d49afeb17e)
+![Picture2](https://github.com/user-attachments/assets/36ba67d4-516a-4e32-94fc-c5c3595fa3a2)
+![Picture3](https://github.com/user-attachments/assets/3561d3be-7bd7-4218-a798-cc3596506f3b)
+![Picture4](https://github.com/user-attachments/assets/a0b66a64-f628-4458-93e2-045ca5d61277)
 
-          ![image](https://github.com/user-attachments/assets/1a376dc5-47ae-4c8e-a854-2e67674d4812)
+
+
+
+
+
+          
 
            
 

@@ -17,7 +17,8 @@ This will enable visually impaired individuals to seamlessly compose, schedule, 
 **Screenshots from the application:**
             ![image](https://github.com/user-attachments/assets/f102061d-b81a-409d-86c8-cb045920a15a)
 
-           ![image](https://github.com/user-attachments/assets/11634d0f-7246-44e8-ade1-4c5eb9698563)
+          ![image](https://github.com/user-attachments/assets/1a376dc5-47ae-4c8e-a854-2e67674d4812)
+
            
 
 
